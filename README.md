@@ -16,6 +16,6 @@ The content has been developed by Nicholas Mandylas working under the private bu
 
 Payment of work
 ---------
- - Date: TBD
+ - Date: 23/01/2016
  - Sum of $440 AUD
- - Invoice ID: TBD
+ - Invoice ID: 5F9670335P054115Y
