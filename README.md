@@ -1,6 +1,5 @@
-# stayinghealthynaturopathy.clinic
+stayinghealthynaturopathy.clinic
 ==========
-
 ![Image](http://i.imgur.com/rUNVqSd.jpg)
 
 SHN is a modern light website with Bootstrap and jQuery elements spread across all corners of the project to provide a rich user expeirence while intising potential clients into further business with the naturopathy clinic.
