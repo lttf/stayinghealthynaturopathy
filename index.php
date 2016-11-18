@@ -112,7 +112,7 @@ Powered by Hydra Servers (http://hydraservers.com.au)
             </div>
         </div>
         <div class="rsContent">
-            <img class="rsImg" alt="" src="images/banner-1.png">
+            <img class="rsImg" alt="" src="images/New Image.jpg">
             <div
                 class="infoBlock  rsAbsoluteEl"
                 style="color:#000;"
